@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+
+header{
+    height: 70px;
+    box-shadow: 0px 3px 5px 2px #f0f0f0;
+}
+
+#header{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+#header ul li{
+    float: left;
+    font-size: 15px;
+}
+
+#header > ul,
+#header > div{
+    float: left;
+}
+
+#header ul li{
+    margin-top: 38px;
+    margin-right: 20px;
+}
+#header #memberMenu{
+    float: right;
+}
+
+/* logo */
+#header ul #logo {
+    margin-top: 10px;
+}
+#header ul #logo img{
+    height: 55px;
+}
+
+/* 검색박스 */
+#header div{
+    margin-left: 150px;
+}
+#header div input{
+    margin-top: 25px;
+    width: 350px;
+    height: 33px;
+    outline: none;
+    border: none;
+    background-color: rgb(242, 242, 242);
+    border-radius: 20px;
+}
+
+#header div img{
+    background-color: red;
+    height: 30px;
+}

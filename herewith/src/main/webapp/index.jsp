@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Hello World!</p>
+
+ <%@ include file="/WEB-INF/views/common/header.jsp"%>
+ 
+ 
 </body>
 </html>
