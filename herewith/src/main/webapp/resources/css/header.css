@@ -6,52 +6,50 @@ header{
     box-shadow: 0px 3px 5px 2px #f0f0f0;
 }
 
-#header{
-    width: 1100px;
-    margin: 0 auto;
-}
-
-#header ul li{
+header div ul li{
     float: left;
     font-size: 15px;
 }
 
-#header > ul,
-#header > div{
+header > div > ul,
+header > div > div{
     float: left;
 }
 
-#header ul li{
+header div ul li{
     margin-top: 38px;
     margin-right: 20px;
 }
-#header #memberMenu{
+header div #memberMenu{
     float: right;
 }
 
 /* logo */
-#header ul #logo {
+header div ul #logo {
     margin-top: 10px;
 }
-#header ul #logo img{
+header div ul #logo img{
     height: 55px;
 }
 
 /* 검색박스 */
-#header div{
+header div div{
+    margin-top: 22px;
+    background-color: rgb(242, 242, 242);
     margin-left: 150px;
+    border-radius: 20px;
 }
-#header div input{
-    margin-top: 25px;
+header div div input{
     width: 350px;
     height: 33px;
     outline: none;
     border: none;
     background-color: rgb(242, 242, 242);
     border-radius: 20px;
+    margin-left: 20px;
 }
 
-#header div img{
-    background-color: red;
-    height: 30px;
+header div div img{
+    width: 15px;
+    margin: 12px 20px 0 0;
 }

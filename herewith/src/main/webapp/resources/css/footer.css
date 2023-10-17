@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+footer {
+    height: 140px;
+    background-color: #ffae44;
+}
+
+footer div h2 img{
+    width: 30px;
+}
+
+footer div ul li{
+    float: left;
+}

@@ -11,7 +11,7 @@
 <body>
 
 	<header>
-		<div id="header">
+		<div class="wrap">
 			<ul>
 				<li id="logo"><img src="resources/images/common/herewith.png" alt=""></li>
 				<li>소통의창</li>
