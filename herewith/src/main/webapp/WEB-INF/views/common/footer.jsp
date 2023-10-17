@@ -12,12 +12,14 @@
 
     <footer>
         <div class="wrap">
-            <h2><img src="resources/images/common/herewith_f.png" alt=""></h2>
-            <ul class="clear">
-                <li>공지사항</li>
-                <li>개인정보처리방침</li>
-                <li>이용문의</li>
-            </ul>
+            <div class="clear">
+                <h2><img src="resources/images/common/herewith_f.png" alt=""></h2>
+                <ul class="clear">
+                    <li>공지사항</li>
+                    <li>개인정보처리방침</li>
+                    <li>이용문의</li>
+                </ul>
+            </div>
             <p>Copyright 2023. 신혜린 All pictures cannot be copied without permission.</p>
         </div>
     </footer>
