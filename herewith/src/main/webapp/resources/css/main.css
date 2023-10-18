@@ -13,6 +13,9 @@
 }
 
 
+#animalPic{
+    margin-bottom: 100px;
+}
 .picBox{
     width: 200px;
     height: 280px;
@@ -29,6 +32,10 @@
 }
 
 
-button{
-    margin-bottom: 50px;
+#moreBtn{
+    width: 200px;
+    height: 30px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    margin-bottom: 100px;
 }

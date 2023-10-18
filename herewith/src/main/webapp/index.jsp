@@ -56,7 +56,10 @@
             </div>
         </div>
 
-        <button>더보기</button>
+        <div id="moreBtn">
+            더보기
+        </div>
+        
     </div>
 
 
