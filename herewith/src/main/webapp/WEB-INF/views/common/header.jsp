@@ -14,7 +14,7 @@
 		<div class="wrap clear">
 			<ul>
 				<li id="logo"><img src="resources/images/common/herewith.png" alt=""></li>
-				<li>소통의창</li>
+				<li><a href="freeBoard.bo">소통의창</a></li>
 			</ul>
 			<div>
 				<input type="text">
